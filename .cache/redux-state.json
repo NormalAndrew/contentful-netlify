@@ -1,0 +1,2196 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "09ad76f1d24a99307b01f3d92f5716c6",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "cba2e688a33f4bc4de01230e3bde7bce",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "bde3fb5ee69404ff8490f8ae03960a46",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "897743de4582700b7b3a4dffb3089be7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b61cee1ae9c078d0be3cbb49c12c64ba",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "cfae7289746b98d53415d46138b84879",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b956ea2a5fc98ebbe1ab5ec61ad57e74",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "2.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8a00485e204abc73c947e9505a46345c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-styled-components": {
+      "resolve": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby-plugin-styled-components",
+      "id": "Plugin gatsby-plugin-styled-components",
+      "name": "gatsby-plugin-styled-components",
+      "version": "2.0.9",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "replaceRenderer"
+      ],
+      "pluginFilepath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby-plugin-styled-components",
+      "packageJson": {
+        "name": "gatsby-plugin-styled-components",
+        "description": "Gatsby plugin to add support for styled components",
+        "version": "2.0.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "styled-components"
+        ],
+        "author": {
+          "name": "Guten Ye",
+          "email": "ywzhaifei@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "styled-components",
+            "version": ">= 2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3261a6ca28e5f311d063f5e80c027857",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.27",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "src",
+        "path": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.27",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "773f8cb3c14dde710cb68f97001f773f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.22",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.22",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^3.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "61f00a1ebd7d02a1f0e8447c6ffdb526",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.41",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.41",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^3.2.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7e8dfcd83e08f561948374424ac5c44d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-contentful": {
+      "resolve": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby-source-contentful",
+      "id": "Plugin gatsby-source-contentful",
+      "name": "gatsby-source-contentful",
+      "version": "1.3.45",
+      "pluginOptions": {
+        "plugins": [],
+        "spaceId": "ea9pq4zk5627",
+        "accessToken": "1d7b8d4eb9c4783190550af92b1e6ed369544c19998e263b46339bace9b4c4d1"
+      },
+      "nodeAPIs": [
+        "setFieldsOnGraphQLNodeType",
+        "sourceNodes",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby-source-contentful",
+      "packageJson": {
+        "name": "gatsby-source-contentful",
+        "description": "Gatsby source plugin for building websites using the Contentful CMS as a data source",
+        "version": "1.3.45",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "gatsby-source-plugin"
+        ],
+        "author": {
+          "name": "Marcus Ericsson",
+          "email": "mericsson@gmail.com",
+          "url": "mericsson.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "axios",
+            "version": "^0.16.1"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "base64-img",
+            "version": "^1.0.3"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "contentful",
+            "version": "^4.3.0"
+          },
+          {
+            "name": "deep-map",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "json-stringify-safe",
+            "version": "^5.0.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "qs",
+            "version": "^6.4.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "daeb0521280f3b70f6e9ca2c7acf1d96",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.37",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.37",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d15bd7b4d8ac143278d33a2bba78eb4f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "3aad6da697e0dca0bbcd629fdfdc432d",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.223"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^1.0.42"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.38"
+          },
+          {
+            "name": "gatsby-plugin-netlify-cms",
+            "version": "^1.0.12"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.41"
+          },
+          {
+            "name": "gatsby-plugin-styled-components",
+            "version": "^2.0.9"
+          },
+          {
+            "name": "gatsby-source-contentful",
+            "version": "^1.3.45"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.27"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.37"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.22"
+          },
+          {
+            "name": "npm",
+            "version": "^5.7.1"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "styled-components",
+            "version": "^3.2.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "gh-pages",
+            "version": "^1.1.0"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.11.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "acc10b9245cab383727d2f0ebadd1f3b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Default Starter",
+        "desc": "A new blog, with Gatsby"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "/levelup_gatsby",
+      "polyfill": true,
+      "buildTime": "2018-04-06T19:17:39.124Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f33f652b65a0c7fa42eb95484561df11",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/images absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/images absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b09053e880637a66b42756891db0dbaf",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/images",
+      "relativePath": "images",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-03-16T04:44:02.000Z",
+      "accessTime": "2018-04-06T19:17:44.509Z",
+      "changeTime": "2018-04-06T16:16:10.958Z",
+      "birthTime": "2018-03-15T04:33:59.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262089,
+      "blocks": 0,
+      "atimeMs": 1523042264508.545,
+      "mtimeMs": 1521175442000,
+      "ctimeMs": 1523031370958.4194,
+      "birthtimeMs": 1521088439000,
+      "atime": "2018-04-06T19:17:44.509Z",
+      "mtime": "2018-03-16T04:44:02.000Z",
+      "ctime": "2018-04-06T16:16:10.958Z",
+      "birthtime": "2018-03-15T04:33:59.000Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/images/logo.svg absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/images/logo.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7665f742d9402c726ad0cd313e098ef8",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "img",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/images/logo.svg",
+      "relativePath": "logo.svg",
+      "extension": "svg",
+      "size": 14522,
+      "prettySize": "14.5 kB",
+      "modifiedTime": "2017-07-31T16:26:40.000Z",
+      "accessTime": "2018-04-06T19:08:39.219Z",
+      "changeTime": "2018-04-06T16:16:10.956Z",
+      "birthTime": "2017-07-31T16:26:40.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/images",
+      "base": "logo.svg",
+      "ext": ".svg",
+      "name": "logo",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262090,
+      "blocks": 32,
+      "atimeMs": 1523041719219.3237,
+      "mtimeMs": 1501518400000,
+      "ctimeMs": 1523031370955.8062,
+      "birthtimeMs": 1501518400000,
+      "atime": "2018-04-06T19:08:39.219Z",
+      "mtime": "2017-07-31T16:26:40.000Z",
+      "ctime": "2018-04-06T16:16:10.956Z",
+      "birthtime": "2017-07-31T16:26:40.000Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/images/bg.jpeg absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/images/bg.jpeg absPath of file",
+      "children": [
+        "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/images/bg.jpeg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6b6971baeb8265aadc7f014edaa6ff31",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "img",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/images/bg.jpeg",
+      "relativePath": "bg.jpeg",
+      "extension": "jpeg",
+      "size": 19555308,
+      "prettySize": "19.6 MB",
+      "modifiedTime": "2018-02-21T18:06:26.000Z",
+      "accessTime": "2018-04-06T19:09:58.070Z",
+      "changeTime": "2018-04-06T16:16:10.958Z",
+      "birthTime": "2018-02-21T18:06:26.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/images",
+      "base": "bg.jpeg",
+      "ext": ".jpeg",
+      "name": "bg",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262091,
+      "blocks": 38200,
+      "atimeMs": 1523041798070.1702,
+      "mtimeMs": 1519236386000,
+      "ctimeMs": 1523031370958.2773,
+      "birthtimeMs": 1519236386000,
+      "atime": "2018-04-06T19:09:58.070Z",
+      "mtime": "2018-02-21T18:06:26.000Z",
+      "ctime": "2018-04-06T16:16:10.958Z",
+      "birthtime": "2018-02-21T18:06:26.000Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/images/bg.jpeg absPath of file >> ImageSharp": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/images/bg.jpeg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/images/bg.jpeg absPath of file",
+      "internal": {
+        "contentDigest": "6b6971baeb8265aadc7f014edaa6ff31",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5667b4b707dd0c9a6296db7cc692614f",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "img",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets",
+      "relativePath": "",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-04-04T04:04:53.050Z",
+      "accessTime": "2018-04-06T19:17:44.489Z",
+      "changeTime": "2018-04-06T16:16:11.251Z",
+      "birthTime": "2018-04-04T04:04:53.047Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static",
+      "base": "assets",
+      "ext": "",
+      "name": "assets",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262106,
+      "blocks": 0,
+      "atimeMs": 1523042264489.0564,
+      "mtimeMs": 1522814693050.0906,
+      "ctimeMs": 1523031371250.7717,
+      "birthtimeMs": 1522814693047.2437,
+      "atime": "2018-04-06T19:17:44.489Z",
+      "mtime": "2018-04-04T04:04:53.050Z",
+      "ctime": "2018-04-06T16:16:11.251Z",
+      "birthtime": "2018-04-04T04:04:53.047Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets/pacheco2_preview.jpeg absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets/pacheco2_preview.jpeg absPath of file",
+      "children": [
+        "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets/pacheco2_preview.jpeg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "027f7673b3a8001ba2726e8280432068",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "img",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets/pacheco2_preview.jpeg",
+      "relativePath": "pacheco2_preview.jpeg",
+      "extension": "jpeg",
+      "size": 302350,
+      "prettySize": "302 kB",
+      "modifiedTime": "2018-04-04T04:04:53.052Z",
+      "accessTime": "2018-04-06T19:09:58.158Z",
+      "changeTime": "2018-04-06T16:16:11.249Z",
+      "birthTime": "2018-04-04T04:04:53.050Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets",
+      "base": "pacheco2_preview.jpeg",
+      "ext": ".jpeg",
+      "name": "pacheco2_preview",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262107,
+      "blocks": 592,
+      "atimeMs": 1523041798157.6736,
+      "mtimeMs": 1522814693051.5469,
+      "ctimeMs": 1523031371249.18,
+      "birthtimeMs": 1522814693050.0825,
+      "atime": "2018-04-06T19:09:58.158Z",
+      "mtime": "2018-04-04T04:04:53.052Z",
+      "ctime": "2018-04-06T16:16:11.249Z",
+      "birthtime": "2018-04-04T04:04:53.050Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets/pacheco2_preview.jpeg absPath of file >> ImageSharp": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets/pacheco2_preview.jpeg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets/pacheco2_preview.jpeg absPath of file",
+      "internal": {
+        "contentDigest": "027f7673b3a8001ba2726e8280432068",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets/cache-creek-2.jpg absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets/cache-creek-2.jpg absPath of file",
+      "children": [
+        "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets/cache-creek-2.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b0f481de22b1f6533d908633da040cf1",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "img",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets/cache-creek-2.jpg",
+      "relativePath": "cache-creek-2.jpg",
+      "extension": "jpg",
+      "size": 784120,
+      "prettySize": "784 kB",
+      "modifiedTime": "2018-04-04T04:04:53.050Z",
+      "accessTime": "2018-04-06T19:09:58.158Z",
+      "changeTime": "2018-04-06T16:16:11.251Z",
+      "birthTime": "2018-04-04T04:04:53.047Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets",
+      "base": "cache-creek-2.jpg",
+      "ext": ".jpg",
+      "name": "cache-creek-2",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262108,
+      "blocks": 1536,
+      "atimeMs": 1523041798157.655,
+      "mtimeMs": 1522814693049.8906,
+      "ctimeMs": 1523031371250.613,
+      "birthtimeMs": 1522814693047.341,
+      "atime": "2018-04-06T19:09:58.158Z",
+      "mtime": "2018-04-04T04:04:53.050Z",
+      "ctime": "2018-04-06T16:16:11.251Z",
+      "birthtime": "2018-04-04T04:04:53.047Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets/cache-creek-2.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets/cache-creek-2.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/static/assets/cache-creek-2.jpg absPath of file",
+      "internal": {
+        "contentDigest": "b0f481de22b1f6533d908633da040cf1",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/ absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/ absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f3d853987cf15c65244cfaf319984a54",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/",
+      "relativePath": "",
+      "extension": "",
+      "size": 256,
+      "prettySize": "256 B",
+      "modifiedTime": "2018-03-20T03:46:35.000Z",
+      "accessTime": "2018-04-06T19:17:44.505Z",
+      "changeTime": "2018-04-06T16:16:11.003Z",
+      "birthTime": "2018-03-13T14:28:54.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful",
+      "base": "src",
+      "ext": "",
+      "name": "src",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 8,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591216909,
+      "blocks": 0,
+      "atimeMs": 1523042264505.2747,
+      "mtimeMs": 1521517595000,
+      "ctimeMs": 1523031371002.6724,
+      "birthtimeMs": 1520951334000,
+      "atime": "2018-04-06T19:17:44.505Z",
+      "mtime": "2018-03-20T03:46:35.000Z",
+      "ctime": "2018-04-06T16:16:11.003Z",
+      "birthtime": "2018-03-13T14:28:54.000Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "dcf08f748bc6495ddb92fcf6fba17c07",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components",
+      "relativePath": "components",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-03-20T03:48:05.000Z",
+      "accessTime": "2018-04-06T19:17:44.509Z",
+      "changeTime": "2018-04-06T16:16:10.970Z",
+      "birthTime": "2018-03-13T14:28:54.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src",
+      "base": "components",
+      "ext": "",
+      "name": "components",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262092,
+      "blocks": 0,
+      "atimeMs": 1523042264508.5142,
+      "mtimeMs": 1521517685000,
+      "ctimeMs": 1523031370970.269,
+      "birthtimeMs": 1520951334000,
+      "atime": "2018-04-06T19:17:44.509Z",
+      "mtime": "2018-03-20T03:48:05.000Z",
+      "ctime": "2018-04-06T16:16:10.970Z",
+      "birthtime": "2018-03-13T14:28:54.000Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/layouts absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/layouts absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "64769ef22d44da34b572113b1ce3a567",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/layouts",
+      "relativePath": "layouts",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-03-13T14:28:54.000Z",
+      "accessTime": "2018-04-06T19:17:44.509Z",
+      "changeTime": "2018-04-06T16:16:10.983Z",
+      "birthTime": "2018-03-13T14:28:54.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src",
+      "base": "layouts",
+      "ext": "",
+      "name": "layouts",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262097,
+      "blocks": 0,
+      "atimeMs": 1523042264508.5754,
+      "mtimeMs": 1520951334000,
+      "ctimeMs": 1523031370982.6497,
+      "birthtimeMs": 1520951334000,
+      "atime": "2018-04-06T19:17:44.509Z",
+      "mtime": "2018-03-13T14:28:54.000Z",
+      "ctime": "2018-04-06T16:16:10.983Z",
+      "birthtime": "2018-03-13T14:28:54.000Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ea403b171cee6e290a365147ea89570f",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages",
+      "relativePath": "pages",
+      "extension": "",
+      "size": 160,
+      "prettySize": "160 B",
+      "modifiedTime": "2018-03-20T03:46:40.000Z",
+      "accessTime": "2018-04-06T19:17:44.509Z",
+      "changeTime": "2018-04-06T16:16:11.002Z",
+      "birthTime": "2018-03-13T14:28:54.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262100,
+      "blocks": 0,
+      "atimeMs": 1523042264508.6104,
+      "mtimeMs": 1521517600000,
+      "ctimeMs": 1523031371001.7441,
+      "birthtimeMs": 1520951334000,
+      "atime": "2018-04-06T19:17:44.509Z",
+      "mtime": "2018-03-20T03:46:40.000Z",
+      "ctime": "2018-04-06T16:16:11.002Z",
+      "birthtime": "2018-03-13T14:28:54.000Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/posts absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/posts absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f35aa33cefed995bb650c2da1744198a",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/posts",
+      "relativePath": "posts",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-04-06T16:19:12.408Z",
+      "accessTime": "2018-04-06T19:17:44.509Z",
+      "changeTime": "2018-04-06T16:19:12.408Z",
+      "birthTime": "2018-03-20T03:46:35.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src",
+      "base": "posts",
+      "ext": "",
+      "name": "posts",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262083,
+      "blocks": 0,
+      "atimeMs": 1523042264508.6396,
+      "mtimeMs": 1523031552407.629,
+      "ctimeMs": 1523031552407.629,
+      "birthtimeMs": 1521517595000,
+      "atime": "2018-04-06T19:17:44.509Z",
+      "mtime": "2018-04-06T16:19:12.408Z",
+      "ctime": "2018-04-06T16:19:12.408Z",
+      "birthtime": "2018-03-20T03:46:35.000Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components/Header absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components/Header absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1a0f81f044726da2b4ecfb1d6d66e490",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components/Header",
+      "relativePath": "components/Header",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-03-13T14:28:54.000Z",
+      "accessTime": "2018-04-06T19:17:44.511Z",
+      "changeTime": "2018-04-06T16:16:10.970Z",
+      "birthTime": "2018-03-13T14:28:54.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components",
+      "base": "Header",
+      "ext": "",
+      "name": "Header",
+      "relativeDirectory": "components",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262095,
+      "blocks": 0,
+      "atimeMs": 1523042264510.9558,
+      "mtimeMs": 1520951334000,
+      "ctimeMs": 1523031370970.1572,
+      "birthtimeMs": 1520951334000,
+      "atime": "2018-04-06T19:17:44.511Z",
+      "mtime": "2018-03-13T14:28:54.000Z",
+      "ctime": "2018-04-06T16:16:10.970Z",
+      "birthtime": "2018-03-13T14:28:54.000Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components/Posts absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components/Posts absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a1bea76e1a3f4ebd6ab414c2fec0d105",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components/Posts",
+      "relativePath": "components/Posts",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-03-20T03:48:17.000Z",
+      "accessTime": "2018-04-06T19:17:44.511Z",
+      "changeTime": "2018-04-06T16:16:10.968Z",
+      "birthTime": "2018-03-20T03:48:05.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components",
+      "base": "Posts",
+      "ext": "",
+      "name": "Posts",
+      "relativeDirectory": "components",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262093,
+      "blocks": 0,
+      "atimeMs": 1523042264510.9854,
+      "mtimeMs": 1521517697000,
+      "ctimeMs": 1523031370967.591,
+      "birthtimeMs": 1521517685000,
+      "atime": "2018-04-06T19:17:44.511Z",
+      "mtime": "2018-03-20T03:48:17.000Z",
+      "ctime": "2018-04-06T16:16:10.968Z",
+      "birthtime": "2018-03-20T03:48:05.000Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/layouts/index.css absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/layouts/index.css absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "eed8cf4192a217bf249ac4765c7dd68e",
+        "mediaType": "text/css",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/layouts/index.css",
+      "relativePath": "layouts/index.css",
+      "extension": "css",
+      "size": 11244,
+      "prettySize": "11.2 kB",
+      "modifiedTime": "2018-03-13T14:28:54.000Z",
+      "accessTime": "2018-04-06T19:08:39.219Z",
+      "changeTime": "2018-04-06T16:16:10.982Z",
+      "birthTime": "2018-03-13T14:28:54.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/layouts",
+      "base": "index.css",
+      "ext": ".css",
+      "name": "index",
+      "relativeDirectory": "layouts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262099,
+      "blocks": 24,
+      "atimeMs": 1523041719219.4954,
+      "mtimeMs": 1520951334000,
+      "ctimeMs": 1523031370981.8113,
+      "birthtimeMs": 1520951334000,
+      "atime": "2018-04-06T19:08:39.219Z",
+      "mtime": "2018-03-13T14:28:54.000Z",
+      "ctime": "2018-04-06T16:16:10.982Z",
+      "birthtime": "2018-03-13T14:28:54.000Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/layouts/index.js absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/layouts/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c4cfc1632edced69bc1203579cdd71b7",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/layouts/index.js",
+      "relativePath": "layouts/index.js",
+      "extension": "js",
+      "size": 990,
+      "prettySize": "990 B",
+      "modifiedTime": "2018-04-02T01:30:45.797Z",
+      "accessTime": "2018-04-06T19:08:39.220Z",
+      "changeTime": "2018-04-06T16:16:10.973Z",
+      "birthTime": "2018-03-13T14:28:54.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/layouts",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "layouts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262098,
+      "blocks": 8,
+      "atimeMs": 1523041719219.5095,
+      "mtimeMs": 1522632645796.9146,
+      "ctimeMs": 1523031370973.0095,
+      "birthtimeMs": 1520951334000,
+      "atime": "2018-04-06T19:08:39.220Z",
+      "mtime": "2018-04-02T01:30:45.797Z",
+      "ctime": "2018-04-06T16:16:10.973Z",
+      "birthtime": "2018-03-13T14:28:54.000Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/posts/PostPage.js absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/posts/PostPage.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f1a304d06e5aaec78f85893bad4aba50",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/posts/PostPage.js",
+      "relativePath": "posts/PostPage.js",
+      "extension": "js",
+      "size": 670,
+      "prettySize": "670 B",
+      "modifiedTime": "2018-04-06T19:22:08.269Z",
+      "accessTime": "2018-04-06T19:22:09.479Z",
+      "changeTime": "2018-04-06T19:22:08.269Z",
+      "birthTime": "2018-03-20T14:46:18.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/posts",
+      "base": "PostPage.js",
+      "ext": ".js",
+      "name": "PostPage",
+      "relativeDirectory": "posts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262084,
+      "blocks": 8,
+      "atimeMs": 1523042529478.5142,
+      "mtimeMs": 1523042528268.747,
+      "ctimeMs": 1523042528268.747,
+      "birthtimeMs": 1521557178000,
+      "atime": "2018-04-06T19:22:09.479Z",
+      "mtime": "2018-04-06T19:22:08.269Z",
+      "ctime": "2018-04-06T19:22:08.269Z",
+      "birthtime": "2018-03-20T14:46:18.000Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages/404.js absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages/404.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8d50d9a7e3f04ddcc5ff8d43b6effe79",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages/404.js",
+      "relativePath": "pages/404.js",
+      "extension": "js",
+      "size": 198,
+      "prettySize": "198 B",
+      "modifiedTime": "2018-03-13T14:28:54.000Z",
+      "accessTime": "2018-04-06T19:08:39.220Z",
+      "changeTime": "2018-04-06T16:16:10.999Z",
+      "birthTime": "2018-03-13T14:28:54.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262102,
+      "blocks": 8,
+      "atimeMs": 1523041719219.6555,
+      "mtimeMs": 1520951334000,
+      "ctimeMs": 1523031370999.3735,
+      "birthtimeMs": 1520951334000,
+      "atime": "2018-04-06T19:08:39.220Z",
+      "mtime": "2018-03-13T14:28:54.000Z",
+      "ctime": "2018-04-06T16:16:10.999Z",
+      "birthtime": "2018-03-13T14:28:54.000Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages/about.js absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages/about.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "848714a6796f75bbfab87bef2f3d73e0",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages/about.js",
+      "relativePath": "pages/about.js",
+      "extension": "js",
+      "size": 234,
+      "prettySize": "234 B",
+      "modifiedTime": "2018-03-15T04:18:35.000Z",
+      "accessTime": "2018-04-06T19:08:39.220Z",
+      "changeTime": "2018-04-06T16:16:10.997Z",
+      "birthTime": "2018-03-15T04:09:56.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages",
+      "base": "about.js",
+      "ext": ".js",
+      "name": "about",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262101,
+      "blocks": 8,
+      "atimeMs": 1523041719219.6655,
+      "mtimeMs": 1521087515000,
+      "ctimeMs": 1523031370997.348,
+      "birthtimeMs": 1521086996000,
+      "atime": "2018-04-06T19:08:39.220Z",
+      "mtime": "2018-03-15T04:18:35.000Z",
+      "ctime": "2018-04-06T16:16:10.997Z",
+      "birthtime": "2018-03-15T04:09:56.000Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages/index.js absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "fe43768427fc5a3d528226397733332d",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages/index.js",
+      "relativePath": "pages/index.js",
+      "extension": "js",
+      "size": 687,
+      "prettySize": "687 B",
+      "modifiedTime": "2018-04-06T19:26:20.525Z",
+      "accessTime": "2018-04-06T19:26:20.524Z",
+      "changeTime": "2018-04-06T19:26:20.525Z",
+      "birthTime": "2018-03-13T14:28:54.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262103,
+      "blocks": 8,
+      "atimeMs": 1523042780524.1616,
+      "mtimeMs": 1523042780525.2246,
+      "ctimeMs": 1523042780525.2246,
+      "birthtimeMs": 1520951334000,
+      "atime": "2018-04-06T19:26:20.524Z",
+      "mtime": "2018-04-06T19:26:20.525Z",
+      "ctime": "2018-04-06T19:26:20.525Z",
+      "birthtime": "2018-03-13T14:28:54.000Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/.DS_Store absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2f0d1f03eea075b3c8a6a4a2076e54ba",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/.DS_Store",
+      "relativePath": ".DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-03-15T04:34:13.000Z",
+      "accessTime": "2018-04-06T19:09:58.172Z",
+      "changeTime": "2018-04-06T16:16:10.952Z",
+      "birthTime": "2018-03-15T04:34:04.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262088,
+      "blocks": 16,
+      "atimeMs": 1523041798171.612,
+      "mtimeMs": 1521088453000,
+      "ctimeMs": 1523031370952.4402,
+      "birthtimeMs": 1521088444000,
+      "atime": "2018-04-06T19:09:58.172Z",
+      "mtime": "2018-03-15T04:34:13.000Z",
+      "ctime": "2018-04-06T16:16:10.952Z",
+      "birthtime": "2018-03-15T04:34:04.000Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components/Header/index.js absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components/Header/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "bafbdceea8810b67974d9738e5715503",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components/Header/index.js",
+      "relativePath": "components/Header/index.js",
+      "extension": "js",
+      "size": 3042,
+      "prettySize": "3.04 kB",
+      "modifiedTime": "2018-04-02T01:58:40.455Z",
+      "accessTime": "2018-04-06T19:08:39.219Z",
+      "changeTime": "2018-04-06T16:16:10.970Z",
+      "birthTime": "2018-03-13T14:28:54.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components/Header",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "components/Header",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262096,
+      "blocks": 8,
+      "atimeMs": 1523041719218.975,
+      "mtimeMs": 1522634320454.725,
+      "ctimeMs": 1523031370970.016,
+      "birthtimeMs": 1520951334000,
+      "atime": "2018-04-06T19:08:39.219Z",
+      "mtime": "2018-04-02T01:58:40.455Z",
+      "ctime": "2018-04-06T16:16:10.970Z",
+      "birthtime": "2018-03-13T14:28:54.000Z"
+    },
+    "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components/Posts/PostListing.js absPath of file": {
+      "id": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components/Posts/PostListing.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "764823ca8bbf3cc0d3987213f6015cf3",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components/Posts/PostListing.js",
+      "relativePath": "components/Posts/PostListing.js",
+      "extension": "js",
+      "size": 289,
+      "prettySize": "289 B",
+      "modifiedTime": "2018-04-06T19:25:22.952Z",
+      "accessTime": "2018-04-06T19:25:22.951Z",
+      "changeTime": "2018-04-06T19:25:22.952Z",
+      "birthTime": "2018-03-20T03:48:17.000Z",
+      "root": "/",
+      "dir": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/components/Posts",
+      "base": "PostListing.js",
+      "ext": ".js",
+      "name": "PostListing",
+      "relativeDirectory": "components/Posts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591262094,
+      "blocks": 8,
+      "atimeMs": 1523042722951.129,
+      "mtimeMs": 1523042722951.5876,
+      "ctimeMs": 1523042722951.5876,
+      "birthtimeMs": 1521517697000,
+      "atime": "2018-04-06T19:25:22.951Z",
+      "mtime": "2018-04-06T19:25:22.952Z",
+      "ctime": "2018-04-06T19:25:22.952Z",
+      "birthtime": "2018-03-20T03:48:17.000Z"
+    },
+    "BlogPost": {
+      "id": "BlogPost",
+      "parent": null,
+      "children": [],
+      "name": "BlogPost",
+      "displayField": "title",
+      "description": "",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "fed9b77cd4bbbbe56521a2d3af3d0e21",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4qiGnVGf9KSmg0MwOKaaIG": {
+      "title": "Our First Contentful Post",
+      "slug": "our-first-contentful-post",
+      "createdAt": "2018-04-06T18:57:21.592Z",
+      "body___NODE": "c4qiGnVGf9KSmg0MwOKaaIGbodyTextNode",
+      "id": "c4qiGnVGf9KSmg0MwOKaaIG",
+      "contentful_id": "4qiGnVGf9KSmg0MwOKaaIG",
+      "updatedAt": "2018-04-06T19:17:15.209Z",
+      "parent": "BlogPost",
+      "children": [
+        "c4qiGnVGf9KSmg0MwOKaaIGbodyTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulBlogPost",
+        "contentDigest": "d9202ee5bbcf8631707fd033c30e2016",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c4qiGnVGf9KSmg0MwOKaaIGbodyTextNode": {
+      "id": "c4qiGnVGf9KSmg0MwOKaaIGbodyTextNode",
+      "parent": "c4qiGnVGf9KSmg0MwOKaaIG",
+      "children": [
+        "c4qiGnVGf9KSmg0MwOKaaIGbodyTextNode >>> MarkdownRemark"
+      ],
+      "body": "Hey, what's up, playing around with Contentful CMS\n\n# Hello\n\n* hello\n* list",
+      "internal": {
+        "type": "contentfulBlogPostBodyTextNode",
+        "mediaType": "text/markdown",
+        "content": "Hey, what's up, playing around with Contentful CMS\n\n# Hello\n\n* hello\n* list",
+        "contentDigest": "d4db5d98dc8d28f7bf20795bfbbab874",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4qiGnVGf9KSmg0MwOKaaIGbodyTextNode >>> MarkdownRemark": {
+      "id": "c4qiGnVGf9KSmg0MwOKaaIGbodyTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c4qiGnVGf9KSmg0MwOKaaIGbodyTextNode",
+      "internal": {
+        "content": "Hey, what's up, playing around with Contentful CMS\n\n# Hello\n\n* hello\n* list",
+        "type": "MarkdownRemark",
+        "contentDigest": "142a2ff047311d7f4f4b35f02aff9985",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c4qiGnVGf9KSmg0MwOKaaIGbodyTextNode",
+        "parent": "c4qiGnVGf9KSmg0MwOKaaIGbodyTextNode"
+      },
+      "excerpt": ""
+    },
+    "SitePage /our-first-contentful-post": {
+      "layout": "index",
+      "jsonName": "our-first-contentful-post.json",
+      "internalComponentName": "ComponentOurFirstContentfulPost",
+      "path": "/our-first-contentful-post",
+      "component": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/posts/PostPage.js",
+      "componentChunkName": "component---src-posts-post-page-js",
+      "context": {
+        "slug": "our-first-contentful-post"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/posts/PostPage.js",
+      "id": "SitePage /our-first-contentful-post",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d2158c9bf7fb319f2861b25df3ad08b2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0d5e907e0efb24f5080286d7f2b94b8d",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e3b4fe1f60b41f6aab6179145280a71f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "92ac09d280bfb0cc17a5f11ed7a1c25c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2a858bcd6410272e0030382c30fd3403",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {
+      "gatsby-source-contentful": {
+        "ea9pq4zk5627": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDmMKgw49oCMKyAcK_DsKKE0BwL8Kbwp_DsMOfaMO2w7jDnwHDs8O7V2HDjRhWw6XChcOyBMK4esOnX8K_wr0QwrDCmsKcKDg9wooPJMOyw6NSwqnDqsKrwoXDgiI3FUcZeQ"
+      }
+    },
+    "PLUGINS_HASH": "10bf47e2186bf9660b0c5b988760db98"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "c4qiGnVGf9KSmg0MwOKaaIGbodyTextNode": [
+        "/our-first-contentful-post",
+        "/"
+      ],
+      "Site": [
+        "LAYOUT___index",
+        "/"
+      ],
+      "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/images/bg.jpeg absPath of file >> ImageSharp": [
+        "LAYOUT___index"
+      ],
+      "/Users/andrewpeterson/Documents/Playground/gatsby/levelup-contentful/src/images/bg.jpeg absPath of file": [
+        null,
+        null
+      ],
+      "c4qiGnVGf9KSmg0MwOKaaIG": [
+        "/our-first-contentful-post"
+      ],
+      "c4qiGnVGf9KSmg0MwOKaaIGbodyTextNode >>> MarkdownRemark": [
+        "/our-first-contentful-post",
+        "/"
+      ]
+    },
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ],
+      "ContentfulBlogPost": [
+        "/"
+      ]
+    }
+  }
+}
